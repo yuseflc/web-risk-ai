@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Arguments after "web-risk-ai": argv[0] is node, argv[1] is this file,
 // so user input starts at index 2.
 const url = process.argv[2];

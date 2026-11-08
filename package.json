@@ -1,15 +1,13 @@
 {
   "name": "web-risk-ai",
   "version": "1.0.0",
-  "type": "module",
-  "description": "",
-  "main": "index.js",
+  "description": "Passive web security checker and AI assistant that maps findings to NIST CSF 2.0 controls and generates a risk register with likelihood, impact and treatment",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
