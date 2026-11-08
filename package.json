@@ -1,0 +1,25 @@
+{
+  "name": "web-risk-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.18.0",
+      "onFail": "download"
+    }
+  },
+  "bin": {
+    "web-risk-ai": "src/index.js"
+  },
+  "packageManager": "pnpm@12.18.0",
+  "type": "module"
+}
