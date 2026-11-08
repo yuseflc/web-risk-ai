@@ -1,1 +1,2 @@
-pnpm
+node_modules/
+.env
